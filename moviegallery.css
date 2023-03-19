@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Creepster&family=Rampart+One&family=Zeyada&display=swap');
+body{
+    background-image: url("./moviegallery/bg.jpg");
+    /* background-repeat:no-repeat; */
+    background-size: cover;
+}
+.gf h1{
+    color:black;
+    /* padding: 2px; */
+    font-weight: bolder;
+    /* border:burlywood 7px ridge; */
+    /* background-color:darkgray;
+    border-radius: 15px; */
+    text-align: center;
+    /* font-size: 250%; */
+    font-family: 'Rampart One', cursive;
+    text-shadow: 2px 2px 2px yellow;
+    /* position: fixed;
+    left: 400px; */
+}
+.gf{
+    height: 480px;
+    /* border: 1px red solid; */
+    width: 832px;
+    left: 257px;
+    position: relative;
+    /* position: absolute; */
+    /* margin-top: 50px; */
+    /* background-color: rgba(224, 16, 16, 0.685); */
+}
+.p{
+    width: 25%;
+    /* height: 0px; */
+    color: white;
+    /* border: white 1px groove; */
+    border-radius: 20px;
+    /* background-color: red; */
+    position: absolute;
+    position: relative;
+    /* top: px; */
+    padding: 8px;
+    /* left: 50px; */
+    text-align: center;
+    /* top: 0px; */
+}
+img{
+    width:100%;
+    height: 200px;
+    border-radius: 5000px;
+}
+.p p{
+    text-align: left;
+    font-family:'Times New Roman', Times, serif
+}
+.child
+{
+    width: 50%;
+    height: 50px;
+    border: aqua 3px groove;
+    border-radius: 10px;
+    position: absolute;
+    left: 25%;
+    /* padding: 2px; */
+}
+.child p{
+text-align: center;
+}
+.p1
+{
+    left: 50px;
+    top: -7px;
+}
+.p2
+{
+    left: 310px;
+    top: -356px;
+}
+.p3{
+    left: 570px;
+    top: -707px;
+}
+.p4
+{
+    top: -350px;
+    left: 50px;
+}
+.p5
+{
+    left: 310px;
+    top: -700px;
+}
+.p6{
+    left: 570px;
+    top: -1049px;
+}
+
+
